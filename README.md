@@ -1,8 +1,8 @@
-# digital_rain
+# Web3Sire
 
 ## Overview
 
-Welcome to digital_rain! This repository houses the codebase for my project, currently under construction. I am diligently working to deliver an exceptional experience.
+Welcome to Web3Sire! This repository houses the codebase for my project, currently under construction. I am diligently working to deliver an exceptional experience.
 
 ![Brick](brick.jpg)
 
@@ -16,11 +16,11 @@ To set up the project locally, follow these steps:
 
 1. [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository to your local machine.
 2. Install the necessary dependencies by running `npm install` or `yarn install`.
-3. bon run preview
+
 
 ## Usage
 
-Just enjoy the digital rain
+A Web3 Social Media Platform.
 
 ## Contributing
 
